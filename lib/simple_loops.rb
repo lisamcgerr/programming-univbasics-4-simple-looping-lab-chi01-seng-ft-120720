@@ -33,5 +33,5 @@ def return_string_array(array)
   new_array
 end
 
-
+array = ["zero", "one", "two", "three", "four", "five", "six"]
 return_string_array(array)
