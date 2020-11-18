@@ -23,8 +23,6 @@ def output_array(array)
   end
 end
 
-array = ["zero", "one", "two", "three", "four", "five", "six"]
-
 def return_string_array(array)
   count = 0 
   new_array = []
@@ -34,5 +32,6 @@ def return_string_array(array)
   end
   new_array
 end
+
 
 return_string_array(array)
