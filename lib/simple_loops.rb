@@ -16,3 +16,11 @@ end
 end
 
 loop_message_n_times("Hi Sam!", 5)
+
+def output_array(array)
+  count = 0 
+while count < array.legnth do 
+puts array[count]
+count += 1 
+end
+end
