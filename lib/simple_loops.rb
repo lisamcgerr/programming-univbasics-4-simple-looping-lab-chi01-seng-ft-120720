@@ -15,12 +15,15 @@ while count < integer do
 end
 end
 
-loop_message_n_times("Hi Sam!", 5)
-
 def output_array(array)
   count = 0 
   while count < array.length do 
     puts array[count]
     count += 1 
   end
+end
+
+def return_string_array(array)
+  
+
 end
